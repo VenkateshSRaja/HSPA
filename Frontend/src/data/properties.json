@@ -1,0 +1,48 @@
+[{
+        "Id": 1,
+        "SellRent": 2,
+        "Name": "Pentagon",
+        "Type": "Intelligence",
+        "Price": 12000,
+        "Image": "prop-1"
+    },
+    {
+        "Id": 2,
+        "SellRent": 2,
+        "Name": "Stark Industires",
+        "Type": "Factory",
+        "Price": 5000000,
+        "Image": "prop-2"
+    },
+    {
+        "Id": 3,
+        "SellRent": 1,
+        "Name": "SHEILD HQ",
+        "Type": "Intelligence",
+        "Price": 1000000000,
+        "Image": "prop-3"
+    },
+    {
+        "Id": 4,
+        "SellRent": 1,
+        "Name": "Asgard",
+        "Type": "Planet",
+        "Price": 490000000000000,
+        "Image": "prop-4"
+    },
+    {
+        "Id": 5,
+        "SellRent": 1,
+        "Name": "Buckingham",
+        "Type": "Palace",
+        "Price": 5000000000,
+        "Image": "prop-5"
+    },
+    {
+        "Id": 6,
+        "SellRent": 1,
+        "Name": "Hotel Transylvania",
+        "Type": "Hotel",
+        "Price": 50000000
+    }
+]
