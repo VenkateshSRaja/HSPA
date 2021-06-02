@@ -19,6 +19,10 @@
     "importHelpers": true,
     "target": "es2017",
     "module": "es2020",
+    "typeRoots": [
+      "node_modules/@types",
+      "src/alertifytype.ds.ts"
+    ],
     "lib": [
       "es2018",
       "dom"
